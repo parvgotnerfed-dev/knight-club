@@ -1,0 +1,1 @@
+ALTER TABLE `chess_rooms` ADD `clock` text;
